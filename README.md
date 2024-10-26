@@ -33,6 +33,10 @@ ______
 Here are four standout projects that, while unrelated to my core work, are worth highlighting:
 
 1. **Accounting Tool**: A streamlined, efficient solution for importing bank transactions, reconciling and categorizing them, and generating comprehensive financial reports. Developed in just a few weeks.
-2. **User Tracking Tool**: A cross-site tracker that helps businesses identify the sources of both paid and organic leads with ease.
-3. **Kid-Friendly Learning App**: A parent-curated educational platform for children aged 5-12, offering ad-free YouTube content to foster learning and development.
-4. **Chrome Extension and Backend Integration for Health Clinic**: Developed a complex Chrome extension and robust backend API for one of Italy's largest private health clinics. The extension enhanced the user interface of Dentally, adding new features and acting as a bridge to a third-party app for issuing electronically signed invoices. Most of the heavy lifting was managed by the backend API, which facilitated seamless integration between the two systems. Additionally, I often had to reverse engineer Dentally’s functionality to deliver features that were not publicly available, ensuring a smooth and efficient workflow.
+
+   | ![dashboard-1](https://github.com/user-attachments/assets/25ed00a5-e9e0-49db-817d-910d6beeeb8c) | ![dashboard-2](https://github.com/user-attachments/assets/300ee76f-f5ec-4f9d-ac31-2c18f387d920) |![dashboard-3](https://github.com/user-attachments/assets/8f1902d7-9b74-487a-9436-24267fc422b4) |
+   | ----------- | ----------- | ----------- |
+3. **User Tracking Tool**: A cross-site tracker that helps businesses identify the sources of both paid and organic leads with ease.
+4. **Kid-Friendly Learning App**: A parent-curated educational platform for children aged 5-12, offering ad-free YouTube content to foster learning and development.
+5. **Chrome Extension and Backend Integration for Health Clinic**: Developed a complex Chrome extension and robust backend API for one of Italy's largest private health clinics. The extension enhanced the user interface of Dentally, adding new features and acting as a bridge to a third-party app for issuing electronically signed invoices. Most of the heavy lifting was managed by the backend API, which facilitated seamless integration between the two systems. Additionally, I often had to reverse engineer Dentally’s functionality to deliver features that were not publicly available, ensuring a smooth and efficient workflow.
+
